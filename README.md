@@ -11,8 +11,9 @@
 ## Week 2 [Front End & DOM](/Syllabus/IntroToFrontEnd.md)
     - Environment Setup
     - HTML
-    - CSS
     - DOM Interaction
+    - Interactivity 
+    - CSS
 
-> Project 2 : Checkpoint
+> Project 1 : Static Front End for the project
     

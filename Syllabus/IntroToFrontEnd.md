@@ -3,12 +3,12 @@
 ## Environment Setup
 
 
-## HTML
+## HyperText Markup Language
 [HTML Docs (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-### HTML Document Structure
+### Index File & Scripts
 
-### Tags
+### Static Tags
 
 - `<html> </html>`
 - `<head> </head>`
@@ -20,9 +20,10 @@
 - `<img src="logo.png" alt="Logo">`
 
 
+## Document Object Model (DOM) 
 
 
-## CSS
+## Buttons, Interactions and Event Listeners
 
 
-## DOM Interaction
+## Cascading Style Sheets (CSS)
