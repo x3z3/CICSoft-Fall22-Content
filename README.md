@@ -1,16 +1,18 @@
 # CICSoft-Fall22-Content
 
-## Week 1 : [Intro to JS](Syllabus/IntroToJS.md)
+## Week 1 : [Intro to JavaScript](/Syllabus/IntroToJS.md)
     - What is JS?
     - History of JS
-    - Java vs JS
+    - Environment and Coding
     - Interacting with JS
-    - JS Objects & References
-    - JS Classes
-    - Browser Coding
+
 > Project 0 : Basic Back End
 
-<!-- ## Week 2 [Front End & DOM](Syllabus/IntroToFrontEnd.md)
+## Week 2 [Front End & DOM](/Syllabus/IntroToFrontEnd.md)
+    - Environment Setup
+    - HTML
+    - CSS
+    - DOM Interaction
 
-> Project 2 : Checkpoint -->
+> Project 2 : Checkpoint
     
