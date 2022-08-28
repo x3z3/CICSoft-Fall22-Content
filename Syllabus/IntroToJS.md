@@ -17,7 +17,8 @@ C Family language
 ## Environment and Coding
 
 ### Chrome Console
-To open the console : ![Opening Console](/Syllabus/IntroToJS_resources/DevTools.png)
+To open the console : 
+![Opening Console](/Syllabus/IntroToJS_resources/DevTools.png)
 Alternatively, you could achieve the same using Ctrl+Shift+I or F12 (Windows)
 
 ### Chrome Debug tools
@@ -124,6 +125,7 @@ Declarations:
 *Fill content here...*
 
 ## JS Arrays, Objects & References
+[Greatest Illustration](https://pythontutor.com/javascript.html#mode=edit)
 
 *Fill content here...*
 

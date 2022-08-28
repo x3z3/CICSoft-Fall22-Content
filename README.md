@@ -6,7 +6,7 @@
     - Environment and Coding
     - Interacting with JS
 
-> Project 0 : Basic Back End
+> Proj 0 Pt 1 : Simple Back End
 
 ## Week 2 [Front End & DOM](/Syllabus/IntroToFrontEnd.md)
     - Environment Setup
@@ -15,5 +15,27 @@
     - Interactivity 
     - CSS
 
-> Project 1 : Static Front End for the project
+> Proj 0 Pt 2 : Static Front End for the project
+
+## Week 3 [Programmer's Tools and Server]()
+    - Git and Github
+    - Postman & APIs
+    - Client - Server Interactions
+    - Intro to Server
+
+# Week 4 *[Server Side and REACT Components]()*
+    - 
+
+# Week 5 *[Props]()*
+    -
+
+# Week 6 *[Hooks]()*
+    -
     
+## Week ? [DataBase Management]()
+    - JSON storage
+    - Setting up Mongo
+    - Database Management
+
+## Week ? [Deployment]()
+    - Heroku Setup
